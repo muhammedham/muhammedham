@@ -15,7 +15,7 @@
 
 ### 🛠️ Tech I work with
 
-`Python` · `Dart / Flutter` · `React` · `scikit-learn` · `Git`
+`Python` · `Dart / Flutter` · `React` · `scikit-learn` · `Git` · `Java`
 
 ### 📫 Reach me
 
